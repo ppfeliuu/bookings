@@ -1,0 +1,30 @@
+[
+    {
+    "key": "1",
+    "fecha" : "01-10-2019",
+    "referencia": "R-0001",
+    "cliente": "Pedro Feliu",
+    "adultos": "2",
+    "children": "0",
+    "estado": "No pagado"
+},
+{
+    "key": "2",
+    "fecha" : "15-10-2019",
+    "referencia": "R-0002",
+    "cliente": "Juan Perez",
+    "adultos": "2",
+    "children": "1",
+    "estado": "agado"
+},
+{
+    "key": "3",
+    "fecha" : "20-10-2019",
+    "referencia": "R-0003",
+    "cliente": "Sofia Carmona",
+    "adultos": "2",
+    "children": "2",
+    "estado": "No pagado"
+}
+]
+
